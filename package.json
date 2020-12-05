@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "san": "^3.10.0"
+  },
+  "name": "san-practice",
+  "description": "demo for learning san",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WolfGirlM/san-practice.git"
+  },
+  "author": "WolfGirlM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WolfGirlM/san-practice/issues"
+  },
+  "homepage": "https://github.com/WolfGirlM/san-practice#readme"
+}
